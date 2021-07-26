@@ -1,1 +1,1 @@
-# fso-cicd
+Full Stack Open CI/CD Exercise
